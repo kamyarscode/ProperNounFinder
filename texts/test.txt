@@ -1,0 +1,87 @@
+1.10	Arabic
+1.11	Aragonese
+1.12	Aramaic
+1.13	Armenian
+1.14	Assamese
+1.15	Aymara
+1.16	Balinese
+1.17	Basque
+1.18	Betawi
+1.19	Bosnian
+1.20	Breton
+1.21	Bulgarian
+1.22	Cantonese
+1.23	Catalan
+1.24	Cherokee
+1.25	Chickasaw
+1.26	Chinese
+1.27	Coptic
+1.28	Cornish
+1.29	Corsican
+1.30	Crimean Tatar
+1.31	Croatian
+1.32	Czech
+1.33	Danish
+1.34	Dutch
+1.35	Dawro
+1.36	Esperanto
+1.37	Estonian
+1.38	Ewe
+1.39	Fiji Hindi
+1.40	Filipino
+1.41	Finnish
+1.42	French
+1.43	Galician
+1.44	Georgian
+1.45	German
+1.46	Greek, Modern
+1.47	Ancient Greek
+1.48	Greenlandic
+1.49	Haitian Creole
+1.50	Hawaiian
+1.51	Hebrew
+1.52	Hindi
+1.53	Hungarian
+1.54	Icelandic
+1.55	Indonesian
+1.56	Inuktitut
+1.57	Interlingua
+1.58	Irish
+1.59	Italian
+1.60	Japanese
+1.61	Javanese
+1.62	Kabardian
+1.63	Kalasha
+1.64	Kannada
+1.65	Kashubian
+1.66	Khmer
+1.67	Kinyarwanda
+1.68	Korean
+1.69	Kurdish/Kurdî
+1.70	Ladin
+1.71	Latgalian
+1.72	Latin
+1.73	Lingala
+1.74	Livonian
+1.75	Lojban
+1.76	Lower Sorbian
+1.77	Low German
+1.78	Macedonian
+1.79	Malay
+1.80	Malayalam
+1.81	Mandarin
+1.82	Manx
+1.83	Maori
+1.84	Mauritian Creole
+1.85	Middle English
+1.86	Middle Low German
+1.87	Min Nan
+1.88	Mongolian
+1.89	Norwegian
+1.90	Old Armenian
+1.91	Old English
+1.92	Old French
+1.93	Old Javanese
+1.94	Old Norse
+1.95	Old Prussian
+1.96	Oriya
