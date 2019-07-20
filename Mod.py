@@ -24,16 +24,3 @@ for word in modified:
 removed = len(comNounList) - len(modified)
 print ('original length', len(comNounList))
 print ('took out ', removed)
-
-# for word in file:
-#     newword = word.lower()
-#     file2.write('%s\n'% newword.capitalize())
-
-
-#
-# file = open('commonNoun.txt').read().splitlines()
-#
-# new = open('comNoun.txt', 'a+')
-# for word in file:
-#     new.write('%s\n'% word.capitalize())
-
