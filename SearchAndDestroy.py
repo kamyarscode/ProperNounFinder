@@ -26,7 +26,7 @@ for link in links:
     page = urllib.request.urlopen(link)
     pageOpen = page.read().decode('utf-8')                      #used to decode wiki so we can scan through it
     found = re.findall(r'[a-zA-Z0-9]\s([A-Z]\w+)', pageOpen)    #finds any letter | number, then prints first word with
-                                                                #cap letter after whitspace
+                                                                #cap letter after whitespace
     for word in found:
         joinedList.append(word)
 
